@@ -39,6 +39,30 @@ languages:
                   url: https://github.com/adityatelange/hugo-PaperMod/wiki/
                 - name: Discord
                   url: https://discord.gg/ahpmTvhVmp
+                  
+    ru:
+        languageName: ":ru:"
+        languageAltTitle: Русский
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Архив
+                  url: archives
+                  weight: 5
+                - name: Поиск
+                  url: search/
+                  weight: 10
+                - name: Теги
+                  url: tags/
+                  weight: 10
+                - name: Вики
+                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                - name: Discord
+                  url: https://discord.gg/ahpmTvhVmp
 
     fr:
         languageName: ":fr:"
