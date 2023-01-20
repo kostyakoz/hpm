@@ -17,6 +17,7 @@ minify:
     # minifyOutput: true
 
 languages:
+    
                   
     ru:
         languageName: ":ru:"
@@ -111,6 +112,7 @@ params:
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
+    defaultContentLanguage: ru
     # disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
